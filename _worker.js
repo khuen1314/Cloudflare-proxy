@@ -7,7 +7,7 @@
 
 let connect = (await import(atob('Y2xvdWRmbGFyZTpzb2NrZXRz'))).connect;
 
-let password = '123456';  // 主页登录密码,建议修改或添加 PASSWORD环境变量
+let password = '65430737l';  // 主页登录密码,建议修改或添加 PASSWORD环境变量
 let relayIP = 'ProxyIP.CMLiussss.net';  // pro-xyip，格式：ip、域名、ip:port、域名:port等,没填写port，默认使用443
 let mainID = 'f0ebd662-288e-42cd-b679-87c4b4f587e4'; // 节点UU-ID和TG代理的secret,建议修改或添加环境变量
 let subPath = 'link';     // 订阅token,不修改将使用通行UU-ID作为订阅路径
